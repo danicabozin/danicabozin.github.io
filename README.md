@@ -1,8 +1,3 @@
----
-layout: page
-title: ""
----
-
 # Danica Božin
 
 **Senior Machine Learning Engineer**
