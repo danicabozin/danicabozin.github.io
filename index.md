@@ -1,6 +1,8 @@
 ---
 
-## layout: home
+layout: home
+
+---
 
 **Senior Machine Learning Engineer**
 
@@ -26,5 +28,5 @@ A selection of personal ML projects, ranging from Agents, RAGs and LLM integrati
 
 ## Contact
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://github.com/yourusername](https://www.linkedin.com/in/danicabozin/)
+* GitHub: [https://github.com/danicabozin](https://github.com/danicabozin)
+* LinkedIn: [https://www.linkedin.com/in/danicabozin/](https://www.linkedin.com/in/danicabozin/)
