@@ -5,9 +5,7 @@ title: Danica Božin
 
 ---
 
-# Danica Božin
-
-### **Senior Machine Learning Engineer**
+## **Senior Machine Learning Engineer**
 
 I write about machine learning and showcase selected personal projects.
 
