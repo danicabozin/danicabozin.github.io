@@ -1,10 +1,13 @@
 ---
 
 layout: home
+title: Danica Božin
 
 ---
 
-**Senior Machine Learning Engineer**
+# Danica Božin
+
+### **Senior Machine Learning Engineer**
 
 I write about machine learning and showcase selected personal projects.
 
