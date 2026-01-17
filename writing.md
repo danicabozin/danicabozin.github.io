@@ -3,7 +3,7 @@
 layout: page
 title: Writing
 
---------------
+---
 
 I use this space to write essays, notes, and thoughts-in-progress about machine learning and systems.
 
