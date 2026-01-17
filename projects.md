@@ -3,7 +3,7 @@
 layout: page
 title: Projects
 
----------------
+---
 
 Below is a selection of personal machine learning projects.
 Each project links to a dedicated GitHub repository.
